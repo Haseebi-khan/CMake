@@ -1,0 +1,7 @@
+# ninja log v6
+8	225	7772172992261426	build.ninja	3eb21e91050900f8
+8	225	7772172992261426	C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/cmake_install.cmake	3eb21e91050900f8
+5	434	7772154065709530	CMakeFiles/trim.dir/main.cpp.obj	20b233db3594b68c
+435	571	7772154069965749	trim.exe	e3172cb2af88b813
+20	226	7772173553968530	CMakeFiles/haseebMath.dir/cpp/adder.cpp.obj	bab1f4fc4f6bde75
+227	1141	7772173556055307	libhaseebMath.a	b312b824aa87b138

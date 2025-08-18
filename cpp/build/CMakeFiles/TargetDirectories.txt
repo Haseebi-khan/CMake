@@ -1,0 +1,3 @@
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/testSome/cpp/build/CMakeFiles/test.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/testSome/cpp/build/CMakeFiles/edit_cache.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/testSome/cpp/build/CMakeFiles/rebuild_cache.dir
