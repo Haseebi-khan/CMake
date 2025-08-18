@@ -4,7 +4,7 @@ project(test)
 
 add_executable(${PROJECT_NAME} main.cpp)
 
-# target_include_directories( testSome PRIVATE ${CMAKE_SOURCE_DIR} /../Cmake/src/cpp)
+target_include_directories( testSome PRIVATE C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/src/cpp)
 
 target_link_directories(test PRIVATE C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build)
 
