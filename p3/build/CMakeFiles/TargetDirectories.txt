@@ -1,0 +1,7 @@
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p3/build/CMakeFiles/p3.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p3/build/CMakeFiles/edit_cache.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p3/build/CMakeFiles/rebuild_cache.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p3/build/CMakeFiles/list_install_components.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p3/build/CMakeFiles/install.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p3/build/CMakeFiles/install/local.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p3/build/CMakeFiles/install/strip.dir
