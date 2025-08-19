@@ -1,8 +1,8 @@
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/trim.dir
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/haseebMath.dir
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/edit_cache.dir
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/rebuild_cache.dir
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/list_install_components.dir
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/install.dir
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/install/local.dir
-C:/Users/NoNeo/OneDrive/Desktop/Cmake/build/CMakeFiles/install/strip.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/trim.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/haseebMath.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/edit_cache.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/list_install_components.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/install.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/install/local.dir
+C:/Users/NoNeo/OneDrive/Desktop/learningcmake/p1/build/CMakeFiles/install/strip.dir
