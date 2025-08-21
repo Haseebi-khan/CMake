@@ -1,0 +1,57 @@
+# Compiled object files
+*.d
+*.slo
+*.o
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Shared libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran modules
+*.mod
+*.smod
+
+# Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake generated files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps/
+
+[Bb][Uu][Ii][Ll][Dd]/
+
+# Build directories
+[Bb]uild/
+p1/out/build/
+p1/build/
+p2/out/build/
+p2/build/
+p3/out/build/
+p3/build/
+p4/out/build/
+p4/build/
+
+
