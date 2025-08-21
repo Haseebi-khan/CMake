@@ -1,0 +1,3 @@
+[submodule "p4/external/glfw"]
+	path = p4/external/glfw
+	url = https://github.com/glfw/glfw.git
