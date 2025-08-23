@@ -1,8 +1,12 @@
 cmake_minimum_required(VERSION 3.15)   # Minimum required CMake version
 
-project(p5)  # Project name and version
+project( p5 VERSION 1.0 )  # Project name and version
+
+configure_file(p5Config.h.in p5Config.h)
 
 add_executable(${PROJECT_NAME} main.cpp)
+
+target_include_directories(${PROJECT_NAME} PUBLIC ${PROJECT_BINARY_DIR})
 
 add_subdirectory( ../p4/Adder Adder)
 
