@@ -1,0 +1,9 @@
+#define optionalLib_VERSION_MAJOR @optionalLib_VERSION_MAJOR@
+#define optionalLib_VERSION_MINOR @optionalLib_VERSION_MINOR@
+
+#cmakedefine USE_ADDER
+
+// #ifdef USE_ADDER
+//     #include <adder.h>
+// #endif
+
