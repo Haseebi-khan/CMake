@@ -1,3 +1,6 @@
 [submodule "p4/external/glfw"]
 	path = p4/external/glfw
 	url = https://github.com/glfw/glfw.git
+[submodule "p5/external/glfw"]
+	path = p5/external/glfw
+	url = https://github.com/glfw/glfw.git
