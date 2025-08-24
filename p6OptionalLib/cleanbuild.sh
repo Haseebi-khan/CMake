@@ -2,11 +2,15 @@
 
 # Clean and recreate build directory
 rm -rf build
+rm -rf include
+rm -rf lib
+rm -rf share
+
 mkdir build
 cd build
 
 # Configure project (.. points to source dir)
-cmake .. -DUSE_ADDER=OFF -DCMAKE_INSTALL_PREFIX="C:\\Users\\NoNeo\\OneDrive\\Desktop\\learningcmake\\p6OptionalLib\\libs"
+cmake .. -DUSE_ADDER=ON -DCMAKE_INSTALL_PREFIX="C:\\Users\\NoNeo\\OneDrive\\Desktop\\learningcmake\\p6OptionalLib\\"
 
 # Build with whatever generator was used
 if [ -f build.ninja ]; then

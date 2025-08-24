@@ -1,4 +1,4 @@
 #!/bin/sh
 
 cd build
-make install
+ninja install
