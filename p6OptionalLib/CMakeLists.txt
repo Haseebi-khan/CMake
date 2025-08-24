@@ -65,3 +65,5 @@ target_link_directories(${PROJECT_NAME}
 
 target_link_libraries(${PROJECT_NAME} glfw ${EXTRA_LINKS})
 
+install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION bin)
+install(FILES "${PROJECT_BINARY_DIR}/OptionalLibConfig.h" DESTINATION include)
