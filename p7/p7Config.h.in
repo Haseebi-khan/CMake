@@ -1,0 +1,6 @@
+#define p7_VERSION_MAJOR @p7_VERSION_MAJOR@
+#define p7_VERSION_MINOR @p7_VERSION_MINOR@
+
+#cmakedefine USE_ADDER
+
+
